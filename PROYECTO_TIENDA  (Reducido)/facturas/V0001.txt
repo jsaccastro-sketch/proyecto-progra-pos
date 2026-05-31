@@ -1,0 +1,12 @@
+======== FACTURA TU TIENDA ========
+No. Venta: V0001
+Fecha: 2026-05-31 17:03:23
+NIT Cliente: CF
+-----------------------------------
+Azucar 1lb x1 Q6.50 = Q6.50
+-----------------------------------
+Subtotal: Q6.50
+IVA 12%:  Q0.78
+Total:    Q7.28
+===================================
+Gracias por su compra.
