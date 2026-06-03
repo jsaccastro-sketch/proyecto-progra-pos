@@ -1,8 +1,68 @@
 [
     {
-        "nit": "2344324",
-        "nombre": "Matias",
-        "telefono": "42740340",
-        "email": "matias@gmail.com"
+        "nit": "1234567-8",
+        "nombre": "Maria Lopez",
+        "telefono": "5555-1234",
+        "email": "maria@correo.com"
+    },
+    {
+        "nit": "27856275",
+        "nombre": "Maria",
+        "telefono": "46697290",
+        "email": "jose@.com"
+    },
+    {
+        "nit": "234",
+        "nombre": "meme",
+        "telefono": "4322",
+        "email": "meme@.com"
+    },
+    {
+        "nit": "5566",
+        "nombre": "josue",
+        "telefono": "1213",
+        "email": "josue@.com"
+    },
+    {
+        "nit": "2022",
+        "nombre": "mati",
+        "telefono": "14",
+        "email": "mati@.com"
+    },
+    {
+        "nit": "0090",
+        "nombre": "Kenya",
+        "telefono": "90",
+        "email": "Kenya@.com"
+    },
+    {
+        "nit": "3334",
+        "nombre": "shery",
+        "telefono": "50",
+        "email": "shery@.com"
+    },
+    {
+        "nit": "6777",
+        "nombre": "ale",
+        "telefono": "39",
+        "email": "ale@.com"
+    },
+    {
+        "nit": "100",
+        "nombre": "Jenniffer",
+        "telefono": "5414",
+        "email": "jenniffer@.com"
+    },
+    {
+        "nit": "1001",
+        "nombre": "Mishelle",
+        "telefono": "7788",
+        "email": "Mishelle@.com"
+    },
+    {
+        "nit": "2001",
+        "nombre": "Sussan",
+        "telefono": "911",
+        "email": "sussan@.com"
     }
 ]
