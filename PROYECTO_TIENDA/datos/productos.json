@@ -1,0 +1,242 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Azucar 1lb",
+        "categoria": "Abarrotes",
+        "precio": 6.5,
+        "stock": 23,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Arroz 1lb",
+        "categoria": "Abarrotes",
+        "precio": 5.0,
+        "stock": 5,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Leche 1L",
+        "categoria": "Lacteos",
+        "precio": 12.0,
+        "stock": 15,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P004",
+        "nombre": "leche",
+        "categoria": "lacteos",
+        "precio": 12.0,
+        "stock": 50,
+        "stock_minimo": 10
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Huevos",
+        "categoria": "proteinas",
+        "precio": 1.0,
+        "stock": 100,
+        "stock_minimo": 10
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Sal",
+        "categoria": "condimentos",
+        "precio": 1.5,
+        "stock": 30,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P007",
+        "nombre": "consome",
+        "categoria": "condimento",
+        "precio": 1.0,
+        "stock": 70,
+        "stock_minimo": 10
+    },
+    {
+        "codigo": "P008",
+        "nombre": "Frijol Negro 1lb",
+        "categoria": "Abarrotes",
+        "precio": 7.5,
+        "stock": 40,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P009",
+        "nombre": "Aceite Vegetal 1L",
+        "categoria": "Abarrotes",
+        "precio": 18.0,
+        "stock": 25,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P010",
+        "nombre": "Harina de Maiz 1lb",
+        "categoria": "Abarrotes",
+        "precio": 4.5,
+        "stock": 35,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P011",
+        "nombre": "Pasta Espagueti",
+        "categoria": "Abarrotes",
+        "precio": 6.0,
+        "stock": 30,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P012",
+        "nombre": "Atun en Lata",
+        "categoria": "Enlatados",
+        "precio": 12.0,
+        "stock": 20,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P013",
+        "nombre": "Sardinas en Lata",
+        "categoria": "Enlatados",
+        "precio": 10.0,
+        "stock": 18,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P014",
+        "nombre": "Mayonesa 400g",
+        "categoria": "Condimentos",
+        "precio": 14.0,
+        "stock": 15,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P015",
+        "nombre": "Ketchup 500g",
+        "categoria": "Condimentos",
+        "precio": 13.0,
+        "stock": 15,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P016",
+        "nombre": "Mostaza 250g",
+        "categoria": "Condimentos",
+        "precio": 8.0,
+        "stock": 20,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P017",
+        "nombre": "Cafe Molido 250g",
+        "categoria": "Bebidas",
+        "precio": 22.0,
+        "stock": 15,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P018",
+        "nombre": "Chocolate en Polvo",
+        "categoria": "Bebidas",
+        "precio": 16.0,
+        "stock": 20,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P019",
+        "nombre": "Agua Purificada 1L",
+        "categoria": "Bebidas",
+        "precio": 4.0,
+        "stock": 50,
+        "stock_minimo": 10
+    },
+    {
+        "codigo": "P020",
+        "nombre": "Gaseosa Cola 600ml",
+        "categoria": "Bebidas",
+        "precio": 7.0,
+        "stock": 45,
+        "stock_minimo": 10
+    },
+    {
+        "codigo": "P021",
+        "nombre": "Jugo de Naranja 1L",
+        "categoria": "Bebidas",
+        "precio": 11.0,
+        "stock": 25,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P022",
+        "nombre": "Yogurt Fresa 1L",
+        "categoria": "Lacteos",
+        "precio": 18.0,
+        "stock": 12,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P023",
+        "nombre": "Queso Fresco 1lb",
+        "categoria": "Lacteos",
+        "precio": 28.0,
+        "stock": 10,
+        "stock_minimo": 2
+    },
+    {
+        "codigo": "P024",
+        "nombre": "Mantequilla 250g",
+        "categoria": "Lacteos",
+        "precio": 15.0,
+        "stock": 15,
+        "stock_minimo": 3
+    },
+    {
+        "codigo": "P025",
+        "nombre": "Pan de Molde",
+        "categoria": "Panaderia",
+        "precio": 14.0,
+        "stock": 20,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P026",
+        "nombre": "Galletas de Vainilla",
+        "categoria": "Snacks",
+        "precio": 8.0,
+        "stock": 30,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P027",
+        "nombre": "Papas Fritas Bolsa",
+        "categoria": "Snacks",
+        "precio": 10.0,
+        "stock": 25,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P028",
+        "nombre": "Jabon de Baño",
+        "categoria": "Limpieza",
+        "precio": 7.5,
+        "stock": 30,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P029",
+        "nombre": "Detergente en Polvo 500g",
+        "categoria": "Limpieza",
+        "precio": 12.0,
+        "stock": 20,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P030",
+        "nombre": "Papel Higienico 4 Rollos",
+        "categoria": "Limpieza",
+        "precio": 18.0,
+        "stock": 18,
+        "stock_minimo": 5
+    }
+]
