@@ -40,20 +40,23 @@ def pedir_texto(mensaje):
         mostrar_error("Este campo no puede estar vacío.")
 
 
-def pedir_entero(mensaje):
-    """Pide un número entero positivo."""
+def pedir_entero(mensaje, permitir_cero=False):
+    """Pide un número entero positivo o cero si se permite."""
     while True:
         try:
             numero = int(input(mensaje))
 
-            if numero > 0:
-                return numero
-
-            mostrar_error("El número debe ser mayor que cero.")
+            if permitir_cero:
+                if numero >= 0:
+                    return numero
+                mostrar_error("El número no puede ser negativo.")
+            else:
+                if numero > 0:
+                    return numero
+                mostrar_error("El número debe ser mayor que cero.")
 
         except ValueError:
             mostrar_error("Debe ingresar un número entero válido.")
-
 
 def pedir_float(mensaje):
     """Pide un número decimal no negativo."""
