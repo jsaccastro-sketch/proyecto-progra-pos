@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Azucar 1lb",
+        "categoria": "Abarrotes",
+        "precio": 6.5,
+        "stock": 23,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Arroz 1lb",
+        "categoria": "Abarrotes",
+        "precio": 5.0,
+        "stock": 30,
+        "stock_minimo": 5
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Leche 1L",
+        "categoria": "Lacteos",
+        "precio": 12.0,
+        "stock": 15,
+        "stock_minimo": 3
+    }
+]

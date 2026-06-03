@@ -1,0 +1,19 @@
+[
+    {
+        "id_venta": "V0001",
+        "fecha": "2026-05-31 17:03:23",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P001",
+                "nombre": "Azucar 1lb",
+                "cantidad": 1,
+                "precio_unit": 6.5,
+                "subtotal": 6.5
+            }
+        ],
+        "subtotal": 6.5,
+        "iva": 0.78,
+        "total": 7.28
+    }
+]
