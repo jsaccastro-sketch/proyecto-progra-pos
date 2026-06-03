@@ -1,0 +1,1251 @@
+[
+    {
+        "id_venta": "V0001",
+        "fecha": "2026-05-31 17:03:23",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P001",
+                "nombre": "Azucar 1lb",
+                "cantidad": 1,
+                "precio_unit": 6.5,
+                "subtotal": 6.5
+            }
+        ],
+        "subtotal": 6.5,
+        "iva": 0.78,
+        "total": 7.28
+    },
+    {
+        "id_venta": "V0002",
+        "fecha": "2026-05-31 22:58:08",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P002",
+                "nombre": "Arroz 1lb",
+                "cantidad": 25,
+                "precio_unit": 5.0,
+                "subtotal": 125.0
+            }
+        ],
+        "subtotal": 125.0,
+        "iva": 15.0,
+        "total": 140.0
+    },
+    {
+        "id_venta": "V0003",
+        "fecha": "2026-06-01 17:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P028",
+                "nombre": "Jabon de Baño",
+                "cantidad": 3,
+                "precio_unit": 7.5,
+                "subtotal": 22.5
+            }
+        ],
+        "subtotal": 22.5,
+        "iva": 2.7,
+        "total": 25.2
+    },
+    {
+        "id_venta": "V0004",
+        "fecha": "2026-06-01 20:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P026",
+                "nombre": "Galletas de Vainilla",
+                "cantidad": 3,
+                "precio_unit": 8.0,
+                "subtotal": 24.0
+            },
+            {
+                "codigo": "P008",
+                "nombre": "Frijol Negro 1lb",
+                "cantidad": 2,
+                "precio_unit": 7.5,
+                "subtotal": 15.0
+            },
+            {
+                "codigo": "P013",
+                "nombre": "Sardinas en Lata",
+                "cantidad": 4,
+                "precio_unit": 10.0,
+                "subtotal": 40.0
+            }
+        ],
+        "subtotal": 79.0,
+        "iva": 9.48,
+        "total": 88.48
+    },
+    {
+        "id_venta": "V0005",
+        "fecha": "2026-06-01 23:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P008",
+                "nombre": "Frijol Negro 1lb",
+                "cantidad": 2,
+                "precio_unit": 7.5,
+                "subtotal": 15.0
+            },
+            {
+                "codigo": "P019",
+                "nombre": "Agua Purificada 1L",
+                "cantidad": 1,
+                "precio_unit": 4.0,
+                "subtotal": 4.0
+            },
+            {
+                "codigo": "P010",
+                "nombre": "Harina de Maiz 1lb",
+                "cantidad": 3,
+                "precio_unit": 4.5,
+                "subtotal": 13.5
+            }
+        ],
+        "subtotal": 32.5,
+        "iva": 3.9,
+        "total": 36.4
+    },
+    {
+        "id_venta": "V0006",
+        "fecha": "2026-06-02 02:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P021",
+                "nombre": "Jugo de Naranja 1L",
+                "cantidad": 4,
+                "precio_unit": 11.0,
+                "subtotal": 44.0
+            },
+            {
+                "codigo": "P005",
+                "nombre": "Huevos",
+                "cantidad": 3,
+                "precio_unit": 1.0,
+                "subtotal": 3.0
+            },
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 4,
+                "precio_unit": 12.0,
+                "subtotal": 48.0
+            }
+        ],
+        "subtotal": 95.0,
+        "iva": 11.4,
+        "total": 106.4
+    },
+    {
+        "id_venta": "V0007",
+        "fecha": "2026-06-02 05:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P017",
+                "nombre": "Cafe Molido 250g",
+                "cantidad": 4,
+                "precio_unit": 22.0,
+                "subtotal": 88.0
+            }
+        ],
+        "subtotal": 88.0,
+        "iva": 10.56,
+        "total": 98.56
+    },
+    {
+        "id_venta": "V0008",
+        "fecha": "2026-06-02 08:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P018",
+                "nombre": "Chocolate en Polvo",
+                "cantidad": 3,
+                "precio_unit": 16.0,
+                "subtotal": 48.0
+            }
+        ],
+        "subtotal": 48.0,
+        "iva": 5.76,
+        "total": 53.76
+    },
+    {
+        "id_venta": "V0009",
+        "fecha": "2026-06-02 11:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P005",
+                "nombre": "Huevos",
+                "cantidad": 4,
+                "precio_unit": 1.0,
+                "subtotal": 4.0
+            },
+            {
+                "codigo": "P014",
+                "nombre": "Mayonesa 400g",
+                "cantidad": 2,
+                "precio_unit": 14.0,
+                "subtotal": 28.0
+            },
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 4,
+                "precio_unit": 12.0,
+                "subtotal": 48.0
+            }
+        ],
+        "subtotal": 80.0,
+        "iva": 9.6,
+        "total": 89.6
+    },
+    {
+        "id_venta": "V0010",
+        "fecha": "2026-06-02 14:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P010",
+                "nombre": "Harina de Maiz 1lb",
+                "cantidad": 4,
+                "precio_unit": 4.5,
+                "subtotal": 18.0
+            },
+            {
+                "codigo": "P014",
+                "nombre": "Mayonesa 400g",
+                "cantidad": 4,
+                "precio_unit": 14.0,
+                "subtotal": 56.0
+            },
+            {
+                "codigo": "P011",
+                "nombre": "Pasta Espagueti",
+                "cantidad": 1,
+                "precio_unit": 6.0,
+                "subtotal": 6.0
+            }
+        ],
+        "subtotal": 80.0,
+        "iva": 9.6,
+        "total": 89.6
+    },
+    {
+        "id_venta": "V0011",
+        "fecha": "2026-06-02 17:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P016",
+                "nombre": "Mostaza 250g",
+                "cantidad": 2,
+                "precio_unit": 8.0,
+                "subtotal": 16.0
+            },
+            {
+                "codigo": "P012",
+                "nombre": "Atun en Lata",
+                "cantidad": 1,
+                "precio_unit": 12.0,
+                "subtotal": 12.0
+            }
+        ],
+        "subtotal": 28.0,
+        "iva": 3.36,
+        "total": 31.36
+    },
+    {
+        "id_venta": "V0012",
+        "fecha": "2026-06-02 20:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P017",
+                "nombre": "Cafe Molido 250g",
+                "cantidad": 1,
+                "precio_unit": 22.0,
+                "subtotal": 22.0
+            }
+        ],
+        "subtotal": 22.0,
+        "iva": 2.64,
+        "total": 24.64
+    },
+    {
+        "id_venta": "V0013",
+        "fecha": "2026-06-02 23:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P020",
+                "nombre": "Gaseosa Cola 600ml",
+                "cantidad": 3,
+                "precio_unit": 7.0,
+                "subtotal": 21.0
+            },
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 1,
+                "precio_unit": 12.0,
+                "subtotal": 12.0
+            }
+        ],
+        "subtotal": 33.0,
+        "iva": 3.96,
+        "total": 36.96
+    },
+    {
+        "id_venta": "V0014",
+        "fecha": "2026-06-03 02:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P017",
+                "nombre": "Cafe Molido 250g",
+                "cantidad": 2,
+                "precio_unit": 22.0,
+                "subtotal": 44.0
+            },
+            {
+                "codigo": "P015",
+                "nombre": "Ketchup 500g",
+                "cantidad": 3,
+                "precio_unit": 13.0,
+                "subtotal": 39.0
+            },
+            {
+                "codigo": "P019",
+                "nombre": "Agua Purificada 1L",
+                "cantidad": 1,
+                "precio_unit": 4.0,
+                "subtotal": 4.0
+            }
+        ],
+        "subtotal": 87.0,
+        "iva": 10.44,
+        "total": 97.44
+    },
+    {
+        "id_venta": "V0015",
+        "fecha": "2026-06-03 05:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P017",
+                "nombre": "Cafe Molido 250g",
+                "cantidad": 1,
+                "precio_unit": 22.0,
+                "subtotal": 22.0
+            }
+        ],
+        "subtotal": 22.0,
+        "iva": 2.64,
+        "total": 24.64
+    },
+    {
+        "id_venta": "V0016",
+        "fecha": "2026-06-03 08:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 1,
+                "precio_unit": 12.0,
+                "subtotal": 12.0
+            },
+            {
+                "codigo": "P005",
+                "nombre": "Huevos",
+                "cantidad": 2,
+                "precio_unit": 1.0,
+                "subtotal": 2.0
+            },
+            {
+                "codigo": "P023",
+                "nombre": "Queso Fresco 1lb",
+                "cantidad": 4,
+                "precio_unit": 28.0,
+                "subtotal": 112.0
+            }
+        ],
+        "subtotal": 126.0,
+        "iva": 15.12,
+        "total": 141.12
+    },
+    {
+        "id_venta": "V0017",
+        "fecha": "2026-06-03 11:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P011",
+                "nombre": "Pasta Espagueti",
+                "cantidad": 2,
+                "precio_unit": 6.0,
+                "subtotal": 12.0
+            },
+            {
+                "codigo": "P028",
+                "nombre": "Jabon de Baño",
+                "cantidad": 4,
+                "precio_unit": 7.5,
+                "subtotal": 30.0
+            }
+        ],
+        "subtotal": 42.0,
+        "iva": 5.04,
+        "total": 47.04
+    },
+    {
+        "id_venta": "V0018",
+        "fecha": "2026-06-03 14:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P018",
+                "nombre": "Chocolate en Polvo",
+                "cantidad": 4,
+                "precio_unit": 16.0,
+                "subtotal": 64.0
+            },
+            {
+                "codigo": "P002",
+                "nombre": "Arroz 1lb",
+                "cantidad": 4,
+                "precio_unit": 5.0,
+                "subtotal": 20.0
+            }
+        ],
+        "subtotal": 84.0,
+        "iva": 10.08,
+        "total": 94.08
+    },
+    {
+        "id_venta": "V0019",
+        "fecha": "2026-06-03 17:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P004",
+                "nombre": "leche",
+                "cantidad": 1,
+                "precio_unit": 12.0,
+                "subtotal": 12.0
+            }
+        ],
+        "subtotal": 12.0,
+        "iva": 1.44,
+        "total": 13.44
+    },
+    {
+        "id_venta": "V0020",
+        "fecha": "2026-06-03 20:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P023",
+                "nombre": "Queso Fresco 1lb",
+                "cantidad": 1,
+                "precio_unit": 28.0,
+                "subtotal": 28.0
+            },
+            {
+                "codigo": "P007",
+                "nombre": "consome",
+                "cantidad": 2,
+                "precio_unit": 1.0,
+                "subtotal": 2.0
+            },
+            {
+                "codigo": "P008",
+                "nombre": "Frijol Negro 1lb",
+                "cantidad": 3,
+                "precio_unit": 7.5,
+                "subtotal": 22.5
+            }
+        ],
+        "subtotal": 52.5,
+        "iva": 6.3,
+        "total": 58.8
+    },
+    {
+        "id_venta": "V0021",
+        "fecha": "2026-06-03 23:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P020",
+                "nombre": "Gaseosa Cola 600ml",
+                "cantidad": 4,
+                "precio_unit": 7.0,
+                "subtotal": 28.0
+            },
+            {
+                "codigo": "P030",
+                "nombre": "Papel Higienico 4 Rollos",
+                "cantidad": 4,
+                "precio_unit": 18.0,
+                "subtotal": 72.0
+            }
+        ],
+        "subtotal": 100.0,
+        "iva": 12.0,
+        "total": 112.0
+    },
+    {
+        "id_venta": "V0022",
+        "fecha": "2026-06-04 02:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P010",
+                "nombre": "Harina de Maiz 1lb",
+                "cantidad": 3,
+                "precio_unit": 4.5,
+                "subtotal": 13.5
+            },
+            {
+                "codigo": "P012",
+                "nombre": "Atun en Lata",
+                "cantidad": 3,
+                "precio_unit": 12.0,
+                "subtotal": 36.0
+            },
+            {
+                "codigo": "P023",
+                "nombre": "Queso Fresco 1lb",
+                "cantidad": 4,
+                "precio_unit": 28.0,
+                "subtotal": 112.0
+            }
+        ],
+        "subtotal": 161.5,
+        "iva": 19.38,
+        "total": 180.88
+    },
+    {
+        "id_venta": "V0023",
+        "fecha": "2026-06-04 05:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P024",
+                "nombre": "Mantequilla 250g",
+                "cantidad": 3,
+                "precio_unit": 15.0,
+                "subtotal": 45.0
+            },
+            {
+                "codigo": "P011",
+                "nombre": "Pasta Espagueti",
+                "cantidad": 4,
+                "precio_unit": 6.0,
+                "subtotal": 24.0
+            },
+            {
+                "codigo": "P004",
+                "nombre": "leche",
+                "cantidad": 2,
+                "precio_unit": 12.0,
+                "subtotal": 24.0
+            }
+        ],
+        "subtotal": 93.0,
+        "iva": 11.16,
+        "total": 104.16
+    },
+    {
+        "id_venta": "V0024",
+        "fecha": "2026-06-04 08:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P029",
+                "nombre": "Detergente en Polvo 500g",
+                "cantidad": 2,
+                "precio_unit": 12.0,
+                "subtotal": 24.0
+            },
+            {
+                "codigo": "P004",
+                "nombre": "leche",
+                "cantidad": 3,
+                "precio_unit": 12.0,
+                "subtotal": 36.0
+            }
+        ],
+        "subtotal": 60.0,
+        "iva": 7.2,
+        "total": 67.2
+    },
+    {
+        "id_venta": "V0025",
+        "fecha": "2026-06-04 11:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P013",
+                "nombre": "Sardinas en Lata",
+                "cantidad": 2,
+                "precio_unit": 10.0,
+                "subtotal": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "iva": 2.4,
+        "total": 22.4
+    },
+    {
+        "id_venta": "V0026",
+        "fecha": "2026-06-04 14:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P028",
+                "nombre": "Jabon de Baño",
+                "cantidad": 2,
+                "precio_unit": 7.5,
+                "subtotal": 15.0
+            },
+            {
+                "codigo": "P025",
+                "nombre": "Pan de Molde",
+                "cantidad": 2,
+                "precio_unit": 14.0,
+                "subtotal": 28.0
+            }
+        ],
+        "subtotal": 43.0,
+        "iva": 5.16,
+        "total": 48.16
+    },
+    {
+        "id_venta": "V0027",
+        "fecha": "2026-06-04 17:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P028",
+                "nombre": "Jabon de Baño",
+                "cantidad": 1,
+                "precio_unit": 7.5,
+                "subtotal": 7.5
+            },
+            {
+                "codigo": "P020",
+                "nombre": "Gaseosa Cola 600ml",
+                "cantidad": 2,
+                "precio_unit": 7.0,
+                "subtotal": 14.0
+            },
+            {
+                "codigo": "P006",
+                "nombre": "Sal",
+                "cantidad": 2,
+                "precio_unit": 1.5,
+                "subtotal": 3.0
+            }
+        ],
+        "subtotal": 24.5,
+        "iva": 2.94,
+        "total": 27.44
+    },
+    {
+        "id_venta": "V0028",
+        "fecha": "2026-06-04 20:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P029",
+                "nombre": "Detergente en Polvo 500g",
+                "cantidad": 1,
+                "precio_unit": 12.0,
+                "subtotal": 12.0
+            },
+            {
+                "codigo": "P011",
+                "nombre": "Pasta Espagueti",
+                "cantidad": 3,
+                "precio_unit": 6.0,
+                "subtotal": 18.0
+            },
+            {
+                "codigo": "P022",
+                "nombre": "Yogurt Fresa 1L",
+                "cantidad": 4,
+                "precio_unit": 18.0,
+                "subtotal": 72.0
+            }
+        ],
+        "subtotal": 102.0,
+        "iva": 12.24,
+        "total": 114.24
+    },
+    {
+        "id_venta": "V0029",
+        "fecha": "2026-06-04 23:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P012",
+                "nombre": "Atun en Lata",
+                "cantidad": 2,
+                "precio_unit": 12.0,
+                "subtotal": 24.0
+            }
+        ],
+        "subtotal": 24.0,
+        "iva": 2.88,
+        "total": 26.88
+    },
+    {
+        "id_venta": "V0030",
+        "fecha": "2026-06-05 02:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P006",
+                "nombre": "Sal",
+                "cantidad": 3,
+                "precio_unit": 1.5,
+                "subtotal": 4.5
+            },
+            {
+                "codigo": "P002",
+                "nombre": "Arroz 1lb",
+                "cantidad": 2,
+                "precio_unit": 5.0,
+                "subtotal": 10.0
+            },
+            {
+                "codigo": "P022",
+                "nombre": "Yogurt Fresa 1L",
+                "cantidad": 2,
+                "precio_unit": 18.0,
+                "subtotal": 36.0
+            }
+        ],
+        "subtotal": 50.5,
+        "iva": 6.06,
+        "total": 56.56
+    },
+    {
+        "id_venta": "V0031",
+        "fecha": "2026-06-05 05:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P016",
+                "nombre": "Mostaza 250g",
+                "cantidad": 2,
+                "precio_unit": 8.0,
+                "subtotal": 16.0
+            },
+            {
+                "codigo": "P008",
+                "nombre": "Frijol Negro 1lb",
+                "cantidad": 3,
+                "precio_unit": 7.5,
+                "subtotal": 22.5
+            },
+            {
+                "codigo": "P027",
+                "nombre": "Papas Fritas Bolsa",
+                "cantidad": 1,
+                "precio_unit": 10.0,
+                "subtotal": 10.0
+            }
+        ],
+        "subtotal": 48.5,
+        "iva": 5.82,
+        "total": 54.32
+    },
+    {
+        "id_venta": "V0032",
+        "fecha": "2026-06-05 08:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P010",
+                "nombre": "Harina de Maiz 1lb",
+                "cantidad": 4,
+                "precio_unit": 4.5,
+                "subtotal": 18.0
+            },
+            {
+                "codigo": "P030",
+                "nombre": "Papel Higienico 4 Rollos",
+                "cantidad": 1,
+                "precio_unit": 18.0,
+                "subtotal": 18.0
+            },
+            {
+                "codigo": "P018",
+                "nombre": "Chocolate en Polvo",
+                "cantidad": 2,
+                "precio_unit": 16.0,
+                "subtotal": 32.0
+            }
+        ],
+        "subtotal": 68.0,
+        "iva": 8.16,
+        "total": 76.16
+    },
+    {
+        "id_venta": "V0033",
+        "fecha": "2026-06-05 11:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P009",
+                "nombre": "Aceite Vegetal 1L",
+                "cantidad": 1,
+                "precio_unit": 18.0,
+                "subtotal": 18.0
+            },
+            {
+                "codigo": "P014",
+                "nombre": "Mayonesa 400g",
+                "cantidad": 2,
+                "precio_unit": 14.0,
+                "subtotal": 28.0
+            }
+        ],
+        "subtotal": 46.0,
+        "iva": 5.52,
+        "total": 51.52
+    },
+    {
+        "id_venta": "V0034",
+        "fecha": "2026-06-05 14:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P002",
+                "nombre": "Arroz 1lb",
+                "cantidad": 1,
+                "precio_unit": 5.0,
+                "subtotal": 5.0
+            }
+        ],
+        "subtotal": 5.0,
+        "iva": 0.6,
+        "total": 5.6
+    },
+    {
+        "id_venta": "V0035",
+        "fecha": "2026-06-05 17:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P022",
+                "nombre": "Yogurt Fresa 1L",
+                "cantidad": 4,
+                "precio_unit": 18.0,
+                "subtotal": 72.0
+            },
+            {
+                "codigo": "P021",
+                "nombre": "Jugo de Naranja 1L",
+                "cantidad": 1,
+                "precio_unit": 11.0,
+                "subtotal": 11.0
+            },
+            {
+                "codigo": "P026",
+                "nombre": "Galletas de Vainilla",
+                "cantidad": 2,
+                "precio_unit": 8.0,
+                "subtotal": 16.0
+            }
+        ],
+        "subtotal": 99.0,
+        "iva": 11.88,
+        "total": 110.88
+    },
+    {
+        "id_venta": "V0036",
+        "fecha": "2026-06-05 20:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P016",
+                "nombre": "Mostaza 250g",
+                "cantidad": 4,
+                "precio_unit": 8.0,
+                "subtotal": 32.0
+            }
+        ],
+        "subtotal": 32.0,
+        "iva": 3.84,
+        "total": 35.84
+    },
+    {
+        "id_venta": "V0037",
+        "fecha": "2026-06-05 23:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P011",
+                "nombre": "Pasta Espagueti",
+                "cantidad": 1,
+                "precio_unit": 6.0,
+                "subtotal": 6.0
+            },
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 4,
+                "precio_unit": 12.0,
+                "subtotal": 48.0
+            }
+        ],
+        "subtotal": 54.0,
+        "iva": 6.48,
+        "total": 60.48
+    },
+    {
+        "id_venta": "V0038",
+        "fecha": "2026-06-06 02:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P023",
+                "nombre": "Queso Fresco 1lb",
+                "cantidad": 4,
+                "precio_unit": 28.0,
+                "subtotal": 112.0
+            },
+            {
+                "codigo": "P013",
+                "nombre": "Sardinas en Lata",
+                "cantidad": 4,
+                "precio_unit": 10.0,
+                "subtotal": 40.0
+            },
+            {
+                "codigo": "P022",
+                "nombre": "Yogurt Fresa 1L",
+                "cantidad": 3,
+                "precio_unit": 18.0,
+                "subtotal": 54.0
+            }
+        ],
+        "subtotal": 206.0,
+        "iva": 24.72,
+        "total": 230.72
+    },
+    {
+        "id_venta": "V0039",
+        "fecha": "2026-06-06 05:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P022",
+                "nombre": "Yogurt Fresa 1L",
+                "cantidad": 1,
+                "precio_unit": 18.0,
+                "subtotal": 18.0
+            },
+            {
+                "codigo": "P029",
+                "nombre": "Detergente en Polvo 500g",
+                "cantidad": 4,
+                "precio_unit": 12.0,
+                "subtotal": 48.0
+            },
+            {
+                "codigo": "P023",
+                "nombre": "Queso Fresco 1lb",
+                "cantidad": 2,
+                "precio_unit": 28.0,
+                "subtotal": 56.0
+            }
+        ],
+        "subtotal": 122.0,
+        "iva": 14.64,
+        "total": 136.64
+    },
+    {
+        "id_venta": "V0040",
+        "fecha": "2026-06-06 08:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P008",
+                "nombre": "Frijol Negro 1lb",
+                "cantidad": 4,
+                "precio_unit": 7.5,
+                "subtotal": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "iva": 3.6,
+        "total": 33.6
+    },
+    {
+        "id_venta": "V0041",
+        "fecha": "2026-06-06 11:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P018",
+                "nombre": "Chocolate en Polvo",
+                "cantidad": 1,
+                "precio_unit": 16.0,
+                "subtotal": 16.0
+            }
+        ],
+        "subtotal": 16.0,
+        "iva": 1.92,
+        "total": 17.92
+    },
+    {
+        "id_venta": "V0042",
+        "fecha": "2026-06-06 14:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P014",
+                "nombre": "Mayonesa 400g",
+                "cantidad": 3,
+                "precio_unit": 14.0,
+                "subtotal": 42.0
+            },
+            {
+                "codigo": "P018",
+                "nombre": "Chocolate en Polvo",
+                "cantidad": 4,
+                "precio_unit": 16.0,
+                "subtotal": 64.0
+            }
+        ],
+        "subtotal": 106.0,
+        "iva": 12.72,
+        "total": 118.72
+    },
+    {
+        "id_venta": "V0043",
+        "fecha": "2026-06-06 17:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P023",
+                "nombre": "Queso Fresco 1lb",
+                "cantidad": 2,
+                "precio_unit": 28.0,
+                "subtotal": 56.0
+            },
+            {
+                "codigo": "P015",
+                "nombre": "Ketchup 500g",
+                "cantidad": 3,
+                "precio_unit": 13.0,
+                "subtotal": 39.0
+            },
+            {
+                "codigo": "P030",
+                "nombre": "Papel Higienico 4 Rollos",
+                "cantidad": 4,
+                "precio_unit": 18.0,
+                "subtotal": 72.0
+            }
+        ],
+        "subtotal": 167.0,
+        "iva": 20.04,
+        "total": 187.04
+    },
+    {
+        "id_venta": "V0044",
+        "fecha": "2026-06-06 20:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P026",
+                "nombre": "Galletas de Vainilla",
+                "cantidad": 1,
+                "precio_unit": 8.0,
+                "subtotal": 8.0
+            },
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 4,
+                "precio_unit": 12.0,
+                "subtotal": 48.0
+            },
+            {
+                "codigo": "P002",
+                "nombre": "Arroz 1lb",
+                "cantidad": 4,
+                "precio_unit": 5.0,
+                "subtotal": 20.0
+            }
+        ],
+        "subtotal": 76.0,
+        "iva": 9.12,
+        "total": 85.12
+    },
+    {
+        "id_venta": "V0045",
+        "fecha": "2026-06-06 23:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P003",
+                "nombre": "Leche 1L",
+                "cantidad": 4,
+                "precio_unit": 12.0,
+                "subtotal": 48.0
+            },
+            {
+                "codigo": "P005",
+                "nombre": "Huevos",
+                "cantidad": 2,
+                "precio_unit": 1.0,
+                "subtotal": 2.0
+            },
+            {
+                "codigo": "P025",
+                "nombre": "Pan de Molde",
+                "cantidad": 4,
+                "precio_unit": 14.0,
+                "subtotal": 56.0
+            }
+        ],
+        "subtotal": 106.0,
+        "iva": 12.72,
+        "total": 118.72
+    },
+    {
+        "id_venta": "V0046",
+        "fecha": "2026-06-07 02:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P016",
+                "nombre": "Mostaza 250g",
+                "cantidad": 2,
+                "precio_unit": 8.0,
+                "subtotal": 16.0
+            },
+            {
+                "codigo": "P024",
+                "nombre": "Mantequilla 250g",
+                "cantidad": 2,
+                "precio_unit": 15.0,
+                "subtotal": 30.0
+            }
+        ],
+        "subtotal": 46.0,
+        "iva": 5.52,
+        "total": 51.52
+    },
+    {
+        "id_venta": "V0047",
+        "fecha": "2026-06-07 05:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P018",
+                "nombre": "Chocolate en Polvo",
+                "cantidad": 1,
+                "precio_unit": 16.0,
+                "subtotal": 16.0
+            },
+            {
+                "codigo": "P022",
+                "nombre": "Yogurt Fresa 1L",
+                "cantidad": 2,
+                "precio_unit": 18.0,
+                "subtotal": 36.0
+            }
+        ],
+        "subtotal": 52.0,
+        "iva": 6.24,
+        "total": 58.24
+    },
+    {
+        "id_venta": "V0048",
+        "fecha": "2026-06-07 08:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P030",
+                "nombre": "Papel Higienico 4 Rollos",
+                "cantidad": 4,
+                "precio_unit": 18.0,
+                "subtotal": 72.0
+            },
+            {
+                "codigo": "P009",
+                "nombre": "Aceite Vegetal 1L",
+                "cantidad": 4,
+                "precio_unit": 18.0,
+                "subtotal": 72.0
+            },
+            {
+                "codigo": "P029",
+                "nombre": "Detergente en Polvo 500g",
+                "cantidad": 3,
+                "precio_unit": 12.0,
+                "subtotal": 36.0
+            }
+        ],
+        "subtotal": 180.0,
+        "iva": 21.6,
+        "total": 201.6
+    },
+    {
+        "id_venta": "V0049",
+        "fecha": "2026-06-07 11:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P025",
+                "nombre": "Pan de Molde",
+                "cantidad": 4,
+                "precio_unit": 14.0,
+                "subtotal": 56.0
+            }
+        ],
+        "subtotal": 56.0,
+        "iva": 6.72,
+        "total": 62.72
+    },
+    {
+        "id_venta": "V0050",
+        "fecha": "2026-06-07 14:00:00",
+        "nit_cliente": "CF",
+        "items": [
+            {
+                "codigo": "P024",
+                "nombre": "Mantequilla 250g",
+                "cantidad": 3,
+                "precio_unit": 15.0,
+                "subtotal": 45.0
+            },
+            {
+                "codigo": "P004",
+                "nombre": "leche",
+                "cantidad": 2,
+                "precio_unit": 12.0,
+                "subtotal": 24.0
+            }
+        ],
+        "subtotal": 69.0,
+        "iva": 8.28,
+        "total": 77.28
+    }
+]
